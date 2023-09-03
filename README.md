@@ -1,4 +1,4 @@
-# Airbnb-EDA
+# EDA-AirBnb
 
 ![image](https://github.com/bharatsoni0047/Airbnb-EDA/assets/111848240/92922d3a-909e-4bd9-a0b5-7398bdd39503)
 
